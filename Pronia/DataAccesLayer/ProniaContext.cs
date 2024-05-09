@@ -9,6 +9,8 @@ namespace Pronia.DataAccesLayer
         {
         }
         public DbSet<Category> Categories {  get; set; }
+        public DbSet<Slider> Sliders { get; set; }
+
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
             options.UseSqlServer("Server=LAPTOP-IM3K1CPI\\SQLEXPRESS;DataBase=AB106Pronia;Trusted_Connection=true;TrustServerCertificate = True");
