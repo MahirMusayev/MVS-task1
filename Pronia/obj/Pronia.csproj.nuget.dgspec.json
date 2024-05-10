@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Heydar\\Desktop\\Pronia\\Pronia\\Pronia.csproj": {}
+    "C:\\Users\\ca.r214.04\\Desktop\\MVS-task1\\Pronia\\Pronia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Heydar\\Desktop\\Pronia\\Pronia\\Pronia.csproj": {
+    "C:\\Users\\ca.r214.04\\Desktop\\MVS-task1\\Pronia\\Pronia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Heydar\\Desktop\\Pronia\\Pronia\\Pronia.csproj",
+        "projectUniqueName": "C:\\Users\\ca.r214.04\\Desktop\\MVS-task1\\Pronia\\Pronia.csproj",
         "projectName": "Pronia",
-        "projectPath": "C:\\Users\\Heydar\\Desktop\\Pronia\\Pronia\\Pronia.csproj",
-        "packagesPath": "C:\\Users\\Heydar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Heydar\\Desktop\\Pronia\\Pronia\\obj\\",
+        "projectPath": "C:\\Users\\ca.r214.04\\Desktop\\MVS-task1\\Pronia\\Pronia.csproj",
+        "packagesPath": "C:\\Users\\ca.r214.04\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ca.r214.04\\Desktop\\MVS-task1\\Pronia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Heydar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ca.r214.04\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

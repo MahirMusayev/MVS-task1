@@ -681,7 +681,7 @@
         },
         "runtime": {
           "lib/net8.0/Microsoft.Build.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -694,7 +694,7 @@
         },
         "runtime": {
           "lib/net8.0/Microsoft.Build.Framework.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -728,12 +728,12 @@
         },
         "compile": {
           "lib/net7.0/Microsoft.CodeAnalysis.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/net7.0/Microsoft.CodeAnalysis.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "resource": {
@@ -785,12 +785,12 @@
         },
         "compile": {
           "lib/net7.0/Microsoft.CodeAnalysis.CSharp.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/net7.0/Microsoft.CodeAnalysis.CSharp.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "resource": {
@@ -847,12 +847,12 @@
         },
         "compile": {
           "lib/net7.0/Microsoft.CodeAnalysis.CSharp.Features.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/net7.0/Microsoft.CodeAnalysis.CSharp.Features.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "resource": {
@@ -907,12 +907,12 @@
         },
         "compile": {
           "lib/net7.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/net7.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "resource": {
@@ -983,12 +983,12 @@
         },
         "compile": {
           "lib/net7.0/Microsoft.CodeAnalysis.Features.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/net7.0/Microsoft.CodeAnalysis.Features.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "resource": {
@@ -1054,12 +1054,12 @@
         },
         "compile": {
           "lib/net7.0/Microsoft.CodeAnalysis.Scripting.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/net7.0/Microsoft.CodeAnalysis.Scripting.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "resource": {
@@ -1116,12 +1116,12 @@
         },
         "compile": {
           "lib/net7.0/Microsoft.CodeAnalysis.Workspaces.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/net7.0/Microsoft.CodeAnalysis.Workspaces.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "resource": {
@@ -1194,12 +1194,12 @@
         },
         "compile": {
           "ref/net6.0/Microsoft.Data.SqlClient.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/net6.0/Microsoft.Data.SqlClient.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtimeTargets": {
@@ -1238,12 +1238,12 @@
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Microsoft.DiaSymReader.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.DiaSymReader.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -1716,7 +1716,7 @@
         },
         "runtime": {
           "lib/net8.0/Microsoft.NET.StringTools.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -1742,12 +1742,12 @@
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Microsoft.SqlServer.Server.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.SqlServer.Server.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -1811,12 +1811,12 @@
         },
         "compile": {
           "lib/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll": {
-            "related": ".xml;.runtimeconfig.json"
+            "related": ".runtimeconfig.json;.xml"
           }
         },
         "runtime": {
           "lib/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll": {
-            "related": ".xml;.runtimeconfig.json"
+            "related": ".runtimeconfig.json;.xml"
           }
         }
       },
@@ -7839,19 +7839,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Heydar\\.nuget\\packages\\": {}
+    "C:\\Users\\ca.r214.04\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Heydar\\Desktop\\Pronia\\Pronia\\Pronia.csproj",
+      "projectUniqueName": "C:\\Users\\ca.r214.04\\Desktop\\MVS-task1\\Pronia\\Pronia.csproj",
       "projectName": "Pronia",
-      "projectPath": "C:\\Users\\Heydar\\Desktop\\Pronia\\Pronia\\Pronia.csproj",
-      "packagesPath": "C:\\Users\\Heydar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Heydar\\Desktop\\Pronia\\Pronia\\obj\\",
+      "projectPath": "C:\\Users\\ca.r214.04\\Desktop\\MVS-task1\\Pronia\\Pronia.csproj",
+      "packagesPath": "C:\\Users\\ca.r214.04\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ca.r214.04\\Desktop\\MVS-task1\\Pronia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Heydar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ca.r214.04\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Pronia.DataAccesLayer;
+using Pronia.ViewModels;
 using Pronia.ViewModels.Sliders;
 
 namespace Pronia.Controllers
@@ -14,19 +15,62 @@ namespace Pronia.Controllers
         }
         public async Task<IActionResult> Index()
         {
-
-            return View(await _context.Categories.ToListAsync());
-        }
-        public async Task<IActionResult> Contact()
-        {
-            return View();
-        }
-        public async Task<IActionResult> About()
-        {
-            return View();
-        }
-
-        public async Task<IActionResult> Shop()
+            HomeVM vm=new HomeVM
+            {
+                Categories= await _context.Categories.ToListAsync(),
+                Sliders=await _context.Sliders.ToListAsync(),
+            };
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            p()
         {
             return View();
         }
